@@ -1,0 +1,36 @@
+{
+  "name": "divorce-lawyer-pune-website",
+  "version": "1.0.0",
+  "description": "Modern, responsive website for divorce lawyers in Pune",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "lawyer",
+    "divorce",
+    "family-law",
+    "pune",
+    "legal-services",
+    "responsive",
+    "modern",
+    "website"
+  ],
+  "author": "Legal Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/divorce-lawyer-pune-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/divorce-lawyer-pune-website/issues"
+  },
+  "homepage": "https://divorcelawyerpune.in",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
